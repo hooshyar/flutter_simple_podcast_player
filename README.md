@@ -9,7 +9,8 @@
 
 I created the project for myself to figure out how audio players work in flutter, without any kind of state management
  solutions
- or fancy widgets and everything that make me not understand a project in one day.
+ or fancy widgets and whatever that make me not understand a project in few hours.
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
