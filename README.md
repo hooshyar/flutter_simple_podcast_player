@@ -1,5 +1,12 @@
 # Simple_Podcast_Player
 
+
+<p>
+<img src="https://www.datacode.app/wp-content/uploads/2020/06/podcast1.gif" alt="gif 1" title="Wordpress-client" />
+<img src="https://www.datacode.app/wp-content/uploads/2020/06/podcast2.gif" alt="image 2" title="Wordpress-client" />
+</p>
+
+
 I created the project for myself to figure out how audio players work in flutter, without any kind of state management
  solutions
  or fancy widgets and everything that make me not understand a project in one day.
