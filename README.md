@@ -25,7 +25,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-##Prerequisites
+## Prerequisites
 Clone repository
 <code>git clone https://github.com/hooshyar/flutter_simple_podcast_player.git </code>
 
@@ -50,7 +50,7 @@ run app on a simulator
 <code>flutter run</code>
 on error do the following setup for each platform
 
-###Platform specific configuration
+### Platform specific configuration
 
 
 ### Android
