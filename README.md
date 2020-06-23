@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ##Prerequisites
 Clone repository
-<code>git clone https://github.com/hooshyar/ </code>
+<code>git clone https://github.com/hooshyar/flutter_simple_podcast_player.git </code>
 
 and open <code>pubspec.yaml</code>
 
