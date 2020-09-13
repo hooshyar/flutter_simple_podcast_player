@@ -2,8 +2,8 @@
 
 
 <p>
-<img src="https://www.datacode.app/wp-content/uploads/2020/06/podcast1.gif" alt="gif 1" title="Wordpress-client" />
-<img src="https://www.datacode.app/wp-content/uploads/2020/06/podcast2.gif" alt="image 2" title="Wordpress-client" />
+<img src="https://www.datacode.app/wp-content/uploads/2020/06/podcast1.gif" alt="gif 1" title="Flutter sample podcast player1" />
+<img src="https://www.datacode.app/wp-content/uploads/2020/06/podcast2.gif" alt="image 2" title="Flutter sample podcast player2" />
 </p>
 
 
